@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adithinrajesh
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Predictive Analytics
-- 🌱 I’m currently pursuing an undergraduate degree in Computer Science Engineering with Artificial intelligence and Data science.
+- 🌱 I’m currently pursuing my masters in applied AI.
 - 💞️ I’m looking to collaborate on projects related to Machine learning, Artificial intelligence, Data science and related domains.
 - 📫 How to reach me - Mail me at adithinrajesh@gmail.com
 
